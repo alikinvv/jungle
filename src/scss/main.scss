@@ -776,6 +776,9 @@ textarea {
   }
 
   p {
+	  @include r(767) {
+		  font-size: 14px;
+	  }
     color: #424242;
     font-size: 18px;
   }
