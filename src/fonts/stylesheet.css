@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'a_FuturaRound';
+    src: url('AFuturaRoundBold.woff2') format('woff2'),
+        url('AFuturaRoundBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
